@@ -1,5 +1,5 @@
-public static void main(String[]args main){
-    public class calculator{
-        
+public class calculator{
+    public static void main(String[] args){
+        new calculatorF();
     }
 }
